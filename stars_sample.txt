@@ -1,0 +1,413 @@
+=== Star Data Sample (Top 10 Named Stars) ===
+This file contains all 37 columns for the first 10 stars with names.
+
+--------------------------------------------------
+Star Name: Sol (ID: 0)
+--------------------------------------------------
+id             : 0
+hip            : nan
+hd             : nan
+hr             : nan
+gl             : nan
+bf             : nan
+proper         : Sol
+ra             : 0.0
+dec            : 0.0
+dist           : 0.0
+pmra           : 0.0
+pmdec          : 0.0
+rv             : 0.0
+mag            : -26.7
+absmag         : 4.85
+spect          : G2V
+ci             : 0.656
+x              : 5e-06
+y              : 0.0
+z              : 0.0
+vx             : 0.0
+vy             : 0.0
+vz             : 0.0
+rarad          : 0.0
+decrad         : 0.0
+pmrarad        : 0.0
+pmdecrad       : 0.0
+bayer          : nan
+flam           : nan
+con            : nan
+comp           : 1
+comp_primary   : 0
+base           : nan
+lum            : 1.0
+var            : nan
+var_min        : nan
+var_max        : nan
+
+--------------------------------------------------
+Star Name: Alpheratz (ID: 676)
+--------------------------------------------------
+id             : 676
+hip            : 677.0
+hd             : 358.0
+hr             : 15.0
+gl             : nan
+bf             : 21Alp And
+proper         : Alpheratz
+ra             : 0.139791
+dec            : 29.090432
+dist           : 29.7442
+pmra           : 135.68
+pmdec          : -162.95
+rv             : -12.0
+mag            : 2.07
+absmag         : -0.297
+spect          : B9p
+ci             : -0.038
+x              : 25.974572
+y              : 0.951042
+z              : 14.461264
+vx             : -2e-08
+vy             : 1.958e-05
+vz             : -2.65e-05
+rarad          : 0.0365971627080155
+decrad         : 0.5077238184659449
+pmrarad        : 6.577952018e-07
+pmdecrad       : -7.90003892e-07
+bayer          : Alp
+flam           : 21.0
+con            : And
+comp           : 1
+comp_primary   : 676
+base           : nan
+lum            : 114.49855346901884
+var            : Alp
+var_min        : 2.083
+var_max        : 2.063
+
+--------------------------------------------------
+Star Name: Caph (ID: 744)
+--------------------------------------------------
+id             : 744
+hip            : 746.0
+hd             : 432.0
+hr             : 21.0
+gl             : Gl 8
+bf             : 11Bet Cas
+proper         : Caph
+ra             : 0.152887
+dec            : 59.14978
+dist           : 16.7842
+pmra           : 523.39
+pmdec          : -180.42
+rv             : 11.3
+mag            : 2.28
+absmag         : 1.155
+spect          : F2III-IV
+ci             : 0.38
+x              : 8.600014
+y              : 0.344589
+z              : 14.409503
+vx             : 1.681e-05
+vy             : 4.329e-05
+vz             : 2.39e-06
+rarad          : 0.0400258528303232
+decrad         : 1.0323584043676326
+pmrarad        : 2.5374663227e-06
+pmdecrad       : -8.74700842e-07
+bayer          : Bet
+flam           : 11.0
+con            : Cas
+comp           : 1
+comp_primary   : 744
+base           : nan
+lum            : 30.06076302628229
+var            : Bet
+var_min        : 2.303
+var_max        : 2.263
+
+--------------------------------------------------
+Star Name: Algenib (ID: 1065)
+--------------------------------------------------
+id             : 1065
+hip            : 1067.0
+hd             : 886.0
+hr             : 39.0
+gl             : nan
+bf             : 88Gam Peg
+proper         : Algenib
+ra             : 0.220598
+dec            : 15.183596
+dist           : 120.048
+pmra           : 4.7
+pmdec          : -8.24
+rv             : 4.0
+mag            : 2.83
+absmag         : -2.567
+spect          : B2IV
+ci             : -0.19
+x              : 115.664183
+y              : 6.687324
+z              : 31.442127
+vx             : 5.04e-06
+vy             : 3.03e-06
+vz             : -3.56e-06
+rarad          : 0.0577524133796261
+decrad         : 0.2650037404493388
+pmrarad        : 2.2786243e-08
+pmdecrad       : -3.9948647e-08
+bayer          : Gam
+flam           : 88.0
+con            : Peg
+comp           : 1
+comp_primary   : 1065
+base           : nan
+lum            : 926.4031007363994
+var            : Gam
+var_min        : 2.846
+var_max        : 2.816
+
+--------------------------------------------------
+Star Name: Groombridge 34 (ID: 1472)
+--------------------------------------------------
+id             : 1472
+hip            : 1475.0
+hd             : 1326.0
+hr             : nan
+gl             : Gl 15A
+bf             : nan
+proper         : Groombridge 34
+ra             : 0.306174
+dec            : 44.022954
+dist           : 3.5873
+pmra           : 2888.92
+pmdec          : 410.58
+rv             : 12.0
+mag            : 8.09
+absmag         : 10.316
+spect          : M1V
+ci             : 1.56
+x              : 2.571275
+y              : 0.20667
+z              : 2.493057
+vx             : -1.7e-07
+vy             : 5.039e-05
+vz             : 1.366e-05
+rarad          : 0.0801562054445776
+decrad         : 0.7683454902950787
+pmrarad        : 1.40058793803e-05
+pmdecrad       : 1.990548009e-06
+bayer          : nan
+flam           : nan
+con            : And
+comp           : 1
+comp_primary   : 1472
+base           : Gl  15
+lum            : 0.0065102849843486
+var            : GX
+var_min        : 8.125
+var_max        : 8.065
+
+--------------------------------------------------
+Star Name: Citadelle (ID: 1544)
+--------------------------------------------------
+id             : 1544
+hip            : 1547.0
+hd             : 1502.0
+hr             : nan
+gl             : nan
+bf             : nan
+proper         : Citadelle
+ra             : 0.321407
+dec            : 14.054755
+dist           : 159.2357
+pmra           : 75.0
+pmdec          : -17.55
+rv             : -9.5
+mag            : 8.36
+absmag         : 2.35
+spect          : K0
+ci             : 0.92
+x              : 153.922235
+y              : 12.982322
+z              : 38.670219
+vx             : -1.098e-05
+vy             : 5.717e-05
+vz             : -1.55e-05
+rarad          : 0.0841441375897786
+decrad         : 0.245301757508
+pmrarad        : 3.636102604e-07
+pmdecrad       : -8.50848e-08
+bayer          : nan
+flam           : nan
+con            : Psc
+comp           : 1
+comp_primary   : 1544
+base           : nan
+lum            : 9.999999999999998
+var            : nan
+var_min        : nan
+var_max        : nan
+
+--------------------------------------------------
+Star Name: Ankaa (ID: 2076)
+--------------------------------------------------
+id             : 2076
+hip            : 2081.0
+hd             : 2261.0
+hr             : 99.0
+gl             : nan
+bf             : Alp Phe
+proper         : Ankaa
+ra             : 0.438056
+dec            : -42.305981
+dist           : 25.974
+pmra           : 232.76
+pmdec          : -353.64
+rv             : 75.0
+mag            : 2.4
+absmag         : 0.327
+spect          : K0III...
+ci             : 1.083
+x              : 19.083654
+y              : 2.198282
+z              : -17.483284
+vx             : 2.323e-05
+vy             : 3.218e-05
+vz             : -8.456e-05
+rarad          : 0.114682902957825
+decrad         : -0.7383786688321162
+pmrarad        : 1.1284523229e-06
+pmdecrad       : -1.714495099e-06
+bayer          : Alp
+flam           : nan
+con            : Phe
+comp           : 1
+comp_primary   : 2076
+base           : nan
+lum            : 64.44659847416881
+var            : nan
+var_min        : nan
+var_max        : nan
+
+--------------------------------------------------
+Star Name: Felixvarela (ID: 2241)
+--------------------------------------------------
+id             : 2241
+hip            : 2247.0
+hd             : nan
+hr             : nan
+gl             : nan
+bf             : nan
+proper         : Felixvarela
+ra             : 0.476199
+dec            : -16.226344
+dist           : 35.7015
+pmra           : -354.87
+pmdec          : -228.26
+rv             : 0.0
+mag            : 9.62
+absmag         : 6.857
+spect          : K5V
+ci             : 1.128
+x              : 34.013301
+y              : 4.262471
+z              : -9.976163
+vx             : -3.32e-06
+vy             : -6.231e-05
+vz             : -3.793e-05
+rarad          : 0.1246684799898033
+decrad         : -0.2832031300624362
+pmrarad        : -1.7204583082e-06
+pmdecrad       : -1.106635707e-06
+bayer          : nan
+flam           : nan
+con            : Cet
+comp           : 1
+comp_primary   : 2241
+base           : nan
+lum            : 0.1574707877289846
+var            : nan
+var_min        : 9.675
+var_max        : 9.565
+
+--------------------------------------------------
+Star Name: Fulu (ID: 2914)
+--------------------------------------------------
+id             : 2914
+hip            : 2920.0
+hd             : 3360.0
+hr             : 153.0
+gl             : nan
+bf             : 17Zet Cas
+proper         : Fulu
+ra             : 0.616188
+dec            : 53.896909
+dist           : 181.8182
+pmra           : 17.77
+pmdec          : -9.15
+rv             : 2.0
+mag            : 3.69
+absmag         : -2.608
+spect          : B2IV
+ci             : -0.196
+x              : 105.743565
+y              : 17.207892
+z              : 146.901502
+vx             : 5.11e-06
+vy             : 1.67e-05
+vz             : -3.1e-06
+rarad          : 0.1613176818246715
+decrad         : 0.9406785238460538
+pmrarad        : 8.6151391e-08
+pmdecrad       : -4.4360451e-08
+bayer          : Zet
+flam           : 17.0
+con            : Cas
+comp           : 1
+comp_primary   : 2914
+base           : nan
+lum            : 962.0552191862148
+var            : nan
+var_min        : nan
+var_max        : nan
+
+--------------------------------------------------
+Star Name: Schedar (ID: 3172)
+--------------------------------------------------
+id             : 3172
+hip            : 3179.0
+hd             : 3712.0
+hr             : 168.0
+gl             : nan
+bf             : 18Alp Cas
+proper         : Schedar
+ra             : 0.675116
+dec            : 56.537331
+dist           : 69.979
+pmra           : 50.36
+pmdec          : -32.17
+rv             : -4.0
+mag            : 2.24
+absmag         : -1.985
+spect          : K0II-IIIvar
+ci             : 1.17
+x              : 37.984817
+y              : 6.784483
+z              : 58.379619
+vx             : 3.74e-06
+vy             : 1.802e-05
+vz             : -9.43e-06
+rarad          : 0.1767448813314833
+decrad         : 0.9867625763100912
+pmrarad        : 2.441521695e-07
+pmdecrad       : -1.55964561e-07
+bayer          : Alp
+flam           : 18.0
+con            : Cas
+comp           : 1
+comp_primary   : 3172
+base           : nan
+lum            : 542.0008904016238
+var            : Alp
+var_min        : 2.25
+var_max        : 2.23
+

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Project Specific
+.gemini/
+extract_sample.py
+
+# Large Data (optional to skip)
+# hygdata_v42.csv

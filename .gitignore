@@ -15,5 +15,5 @@ ENV/
 # Project Specific
 .gemini/
 
-# Large Data
-# hygdata_v42.csv
+# todo
+todo.txt

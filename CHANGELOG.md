@@ -16,5 +16,6 @@
 
 - **GitHub 연동**: `Insu0531/Star_Gatcha` 리포지토리 생성 및 초기 데이터 업로드 완료.
 
-- **stars_sample.txt**: HYG Database의 별 데이터를 10개까지 샘플링한 텍스트 파일 추가.
+- **`stars_sample.txt`**: HYG Database의 별 데이터를 10개까지 샘플링한 텍스트 파일 추가.
+- **`generate_column_docs.py`**: Pandas와 AI를 이용하여 각 컬럼의 특성을 분석하고 쉽게 볼 수 있도록 `Docs/column_description.txt` 생성.
 ---

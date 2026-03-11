@@ -14,8 +14,6 @@ ENV/
 
 # Project Specific
 .gemini/
-extract_sample.py
-*.txt
 
 # Large Data
 # hygdata_v42.csv
